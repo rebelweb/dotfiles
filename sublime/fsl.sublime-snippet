@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+# frozen_string_literal: true
+
+]]></content>
+  <tabTrigger>fsl</tabTrigger>
+  <scope>source.ruby</scope>
+</snippet>
