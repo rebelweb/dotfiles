@@ -7,4 +7,5 @@ These are my settings and snippets
 ```
 fsl --> # frozen_string_literal: true
 factory --> FactoryBot.define do..end
+service --> class Service..end
 ```
