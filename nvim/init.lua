@@ -1,0 +1,6 @@
+require("plugin_manager")
+require("treesitter")
+require("telescope_config")
+require("remap")
+require("settings")
+require("harpoon_config")
